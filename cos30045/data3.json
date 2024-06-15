@@ -1,0 +1,23 @@
+{
+    "Sheet1": [
+        {
+            "Column4": "Measure",
+            "Column6": "Country",
+            "Column7": "YEA",
+            "Column9": "Value"
+        },
+        {
+            "Column4": "Litres per capita (15+)",
+            "Column6": "Australia",
+            "Column7": 2010,
+            "Column9": 10
+        },
+        
+        {
+            "Column4": "Litres per capita (15+)",
+            "Column6": "South Africa",
+            "Column7": 2019,
+            "Column9": 7.2
+        }
+    ]
+}
